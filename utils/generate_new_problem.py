@@ -27,7 +27,7 @@ class GenerateProblem(object):
         file_path = "../problems/{}.md".format(self.input['leet_name'])
         if path.exists(file_path):
             print('Problem already existed!')
-            # return
+            return
 
         question = self.get_question()
         solution_and_notes = self.get_solution_and_notes()
@@ -56,7 +56,6 @@ class GenerateProblem(object):
                 res += (raw[last_idx:idx] + '\n\n')
                 last_idx = idx + 1
         return res
-
 
     def get_solution_and_notes(self):
         res = "## Solution \n ```python \n\n ``` \n## Notes"
