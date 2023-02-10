@@ -2,8 +2,8 @@ from os import path
 from utils.leetcode_helper import LeetcodeHelper
 
 INPUT = {
-    "leet_name": "33. Search in Rotated Sorted Array",
-    "lint_name": "62 · Search in Rotated Sorted Array"
+    "leet_name": "658. Find K Closest Elements",
+    "lint_name": "460 · Find K Closest Elements"
 }
 
 
@@ -60,10 +60,6 @@ class GenerateProblem(object):
     def get_solution_and_notes(self):
         res = "## Solution \n ```python \n\n ``` \n## Notes"
         return res
-
-
-
-
 
 
 if __name__=='__main__':
