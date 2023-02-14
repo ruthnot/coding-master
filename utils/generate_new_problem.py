@@ -2,8 +2,8 @@ from os import path
 from utils.leetcode_helper import LeetcodeHelper
 
 INPUT = {
-    "leet_name": "26. Remove Duplicates from Sorted Array",
-    "lint_name": "521 · Remove Duplicate Numbers in Array"
+    "leet_name": "88. Merge Sorted Array",
+    "lint_name": "64 · Merge Sorted Array (easy version)"
 }
 
 
