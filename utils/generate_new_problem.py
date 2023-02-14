@@ -2,8 +2,8 @@ from os import path
 from utils.leetcode_helper import LeetcodeHelper
 
 INPUT = {
-    "leet_name": "658. Find K Closest Elements",
-    "lint_name": "460 · Find K Closest Elements"
+    "leet_name": "26. Remove Duplicates from Sorted Array",
+    "lint_name": "521 · Remove Duplicate Numbers in Array"
 }
 
 
@@ -37,6 +37,7 @@ class GenerateProblem(object):
             f.write(question)
             f.write(solution_and_notes)
             f.close()
+        print('New Problem Generated!')
 
     def get_header(self):
         difficulty = 'Difficulty: {}'.format(self.input['difficulty'])
