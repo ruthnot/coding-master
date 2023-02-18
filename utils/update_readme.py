@@ -15,9 +15,9 @@ class UpdateReadme(object):
         self.scan()
 
         with open('../README.md', 'w') as f:
-            f.write('#Total: {}\n\n'.format(self.total))
+            f.write('# Total: {}\n\n'.format(self.total))
             for tag, problems in self.category.items():
-                line = '###{}\n\n'.format(tag)
+                line = '### {}\n\n'.format(tag)
                 f.write(line)
                 for problem in problems:
                     line = "[{}](problems/{})\n\n".format(problem, problem.replace(' ', '%20'))

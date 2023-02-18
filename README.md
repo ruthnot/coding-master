@@ -1,6 +1,6 @@
 # Total: 13
 
-###Binary Search
+### Binary Search
 
 [0033. Search in Rotated Sorted Array.md](problems/0033.%20Search%20in%20Rotated%20Sorted%20Array.md)
 
@@ -20,7 +20,7 @@
 
 [0704. Binary Search.md](problems/0704.%20Binary%20Search.md)
 
-###Two Pointers
+### Two Pointers
 
 [0021. Merge Two Sorted Lists.md](problems/0021.%20Merge%20Two%20Sorted%20Lists.md)
 
