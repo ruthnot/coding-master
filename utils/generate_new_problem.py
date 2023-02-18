@@ -2,8 +2,8 @@ from os import path
 from utils.leetcode_helper import LeetcodeHelper
 
 INPUT = {
-    "leet_name": "283. Move Zeroes",
-    "lint_name": "539 · Move Zeroes"
+    "leet_name": "21. Merge Two Sorted Lists",
+    "lint_name": "165 · Merge Two Sorted Lists"
 }
 
 
@@ -28,7 +28,6 @@ class GenerateProblem(object):
         while len(number) < 4:
             number = '0' + number
         new_name = '.'.join([number, name])
-        print(new_name)
         return new_name
 
     def run(self):
