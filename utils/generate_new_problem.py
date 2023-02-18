@@ -22,9 +22,18 @@ class GenerateProblem(object):
         self.input['leet_url'] = 'https://leetcode.com/problems/{}/'.format(leet_slug)
         self.input['lint_url'] = 'https://lintcode.com/problem/{}'.format(lint_id)
 
+    def get_name(self, leet_name):
+        number = leet_name.split('.')[0]
+        name = leet_name.split('.')[1]
+        while len(number) < 4:
+            number = '0' + number
+        new_name = '.'.join([number, name])
+        print(new_name)
+        return new_name
+
     def run(self):
         self.input_parser()
-        file_path = "../problems/{}.md".format(self.input['leet_name'])
+        file_path = "../problems/{}.md".format(self.get_name(self.input['leet_name']))
         if path.exists(file_path):
             print('Problem already existed!')
             return
