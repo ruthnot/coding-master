@@ -2,8 +2,8 @@ from os import path
 from utils.leetcode_helper import LeetcodeHelper
 
 INPUT = {
-    "leet_name": "88. Merge Sorted Array",
-    "lint_name": "64 · Merge Sorted Array (easy version)"
+    "leet_name": "283. Move Zeroes",
+    "lint_name": "539 · Move Zeroes"
 }
 
 
