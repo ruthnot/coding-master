@@ -23,20 +23,22 @@ class UpdateReadme(object):
                     line = "[{}](problems/{})\n\n".format(problem, problem.replace(' ', '%20'))
                     f.write(line)
             f.close()
+        print('README Updated!')
 
     def scan(self):
         path = "../problems/"
         problems = os.listdir(path)
         for problem in problems:
             self.total += 1
+            problem_name = problem.split('.md')[0]
             with open(path+problem, 'r') as f:
                 for line in f:
                     if 'Tags' in line:
                         main_tag = line.split(': ')[1].rstrip()
                         if len(main_tag) == 0:  # not tagged yet:
-                            self.category['Untagged'].append(problem)
+                            self.category['Untagged'].append(problem_name)
                         else:
-                            self.category[main_tag].append(problem)
+                            self.category[main_tag].append(problem_name)
                         break
 
 

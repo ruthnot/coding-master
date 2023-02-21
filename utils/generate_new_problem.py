@@ -45,7 +45,6 @@ class GenerateProblem(object):
 
         # Update README
         UpdateReadme().update()
-        print('README Updated!')
 
     def get_name(self, leet_name):
         number = leet_name.split('.')[0]
@@ -59,7 +58,7 @@ class GenerateProblem(object):
         difficulty = 'Difficulty: {}'.format(self.input['difficulty'])
         leet = '[LeetCode: {}]({})'.format(self.input['leet_name'], self.input['leet_url'])
         lint = '[LintCode: {}]({})'.format(self.input['lint_name'], self.input['lint_url'])
-        result = '{}\n{}\n\n{}\n\n{}\n\n'.format(difficulty, 'Tags: ', leet, lint)
+        result = '{}\n\n{}\n\n{}\n\n{}\n\n'.format(difficulty, 'Tags: ', leet, lint)
         return result
 
     def get_question(self):
