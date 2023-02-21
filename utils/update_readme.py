@@ -20,7 +20,7 @@ class UpdateReadme(object):
                 line = '### {}\n\n'.format(tag)
                 f.write(line)
                 for problem in problems:
-                    line = "[{}](problems/{})\n\n".format(problem, problem.replace(' ', '%20'))
+                    line = "[{}](problems/{}.md)\n\n".format(problem, problem.replace(' ', '%20'))
                     f.write(line)
             f.close()
         print('README Updated!')
