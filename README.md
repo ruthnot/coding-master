@@ -1,4 +1,4 @@
-# Total: 13
+# Total: 14
 
 ### Binary Search
 
@@ -29,4 +29,8 @@
 [0026. Remove Duplicates from Sorted Array.md](problems/0026.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 
 [0283. Move Zeroes.md](problems/0283.%20Move%20Zeroes.md)
+
+### Untagged
+
+[0340. Longest Substring with At Most K Distinct Characters.md](problems/0340.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters.md)
 

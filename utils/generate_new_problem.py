@@ -1,14 +1,16 @@
 from os import path
 from utils.leetcode_helper import LeetcodeHelper
+from utils.update_readme import UpdateReadme
 
 INPUT = {
-    "leet_name": "21. Merge Two Sorted Lists",
-    "lint_name": "165 · Merge Two Sorted Lists"
+    "leet_name": "340. Longest Substring with At Most K Distinct Characters",
+    "lint_name": "386 · Longest Substring with At Most K Distinct Characters"
 }
 
 
 class GenerateProblem(object):
-    def __init__(self):
+    def __init__(self, overwrite=False):
+        self.overwrite = overwrite
         self.input = INPUT
         self.leetcode = LeetcodeHelper()
 
@@ -22,21 +24,15 @@ class GenerateProblem(object):
         self.input['leet_url'] = 'https://leetcode.com/problems/{}/'.format(leet_slug)
         self.input['lint_url'] = 'https://lintcode.com/problem/{}'.format(lint_id)
 
-    def get_name(self, leet_name):
-        number = leet_name.split('.')[0]
-        name = leet_name.split('.')[1]
-        while len(number) < 4:
-            number = '0' + number
-        new_name = '.'.join([number, name])
-        return new_name
-
     def run(self):
+        # Parse user input
         self.input_parser()
         file_path = "../problems/{}.md".format(self.get_name(self.input['leet_name']))
-        if path.exists(file_path):
+        if path.exists(file_path) and not self.overwrite:
             print('Problem already existed!')
             return
 
+        # Get question component and write
         question = self.get_question()
         solution_and_notes = self.get_solution_and_notes()
         header = self.get_header()
@@ -45,7 +41,19 @@ class GenerateProblem(object):
             f.write(question)
             f.write(solution_and_notes)
             f.close()
-        print('New Problem Generated!')
+        print('New Problem Generated: {}'.format(file_path.split('/')[-1]))
+
+        # Update README
+        UpdateReadme().update()
+        print('README Updated!')
+
+    def get_name(self, leet_name):
+        number = leet_name.split('.')[0]
+        name = leet_name.split('.')[1]
+        while len(number) < 4:
+            number = '0' + number
+        new_name = '.'.join([number, name])
+        return new_name
 
     def get_header(self):
         difficulty = 'Difficulty: {}'.format(self.input['difficulty'])
@@ -72,6 +80,6 @@ class GenerateProblem(object):
 
 
 if __name__=='__main__':
-    GenerateProblem().run()
+    GenerateProblem(overwrite=False).run()
 
 

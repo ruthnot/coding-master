@@ -15,11 +15,15 @@ class LeetcodeHelper(object):
 
         res['title'] = question['title']
         res['id'] = question['questionFrontendId']
+        res['difficulty'] = question['difficulty']
+        if question['content'] is None:
+            res['description'] = {}
+            return res
         soup = bs(question['content'], 'lxml')
         res['description'] = soup.get_text()
-        res['difficulty'] = question['difficulty']
+
         return res
 
 
 if __name__=='__main__':
-    LeetcodeHelper().get_question("zigzag-conversion")
+    LeetcodeHelper().get_question("longest-substring-with-at-most-k-distinct-characters")

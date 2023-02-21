@@ -1,7 +1,7 @@
 import os
 from collections import OrderedDict
 
-TAGS = ('Binary Search', 'Two Pointers')
+TAGS = ('Binary Search', 'Two Pointers', 'Untagged')
 
 class UpdateReadme(object):
     def __init__(self, tags=TAGS):
@@ -33,8 +33,12 @@ class UpdateReadme(object):
                 for line in f:
                     if 'Tags' in line:
                         main_tag = line.split(': ')[1].rstrip()
-                        self.category[main_tag].append(problem)
+                        if len(main_tag) == 0:  # not tagged yet:
+                            self.category['Untagged'].append(problem)
+                        else:
+                            self.category[main_tag].append(problem)
                         break
+
 
 if __name__=='__main__':
     x = UpdateReadme()
