@@ -3,8 +3,8 @@ from utils.leetcode_helper import LeetcodeHelper
 from utils.update_readme import UpdateReadme
 
 INPUT = {
-    "leet_name": "340. Longest Substring with At Most K Distinct Characters",
-    "lint_name": "386 · Longest Substring with At Most K Distinct Characters"
+    "leet_name": "76. Minimum Window Substring",
+    "lint_name": "32 · Minimum Window Substring"
 }
 
 
@@ -58,7 +58,7 @@ class GenerateProblem(object):
         difficulty = 'Difficulty: {}'.format(self.input['difficulty'])
         leet = '[LeetCode: {}]({})'.format(self.input['leet_name'], self.input['leet_url'])
         lint = '[LintCode: {}]({})'.format(self.input['lint_name'], self.input['lint_url'])
-        result = '{}\n\n{}\n\n{}\n\n{}\n\n'.format(difficulty, 'Tags: ', leet, lint)
+        result = '{}\n\n{}\n\n{}\n\n{}\n\n{}\n\n'.format(difficulty, 'Tags: ', 'Need Reviwe: False', leet, lint)
         return result
 
     def get_question(self):

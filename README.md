@@ -1,4 +1,4 @@
-# Total: 14
+# Total: 15
 
 ### Binary Search
 
@@ -27,6 +27,8 @@
 [0021. Merge Two Sorted Lists](problems/0021.%20Merge%20Two%20Sorted%20Lists.md)
 
 [0088. Merge Sorted Array](problems/0088.%20Merge%20Sorted%20Array.md)
+
+[0076. Minimum Window Substring](problems/0076.%20Minimum%20Window%20Substring.md)
 
 [0026. Remove Duplicates from Sorted Array](problems/0026.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 
