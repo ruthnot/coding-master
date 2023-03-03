@@ -3,8 +3,8 @@ from utils.leetcode_helper import LeetcodeHelper
 from utils.update_readme import UpdateReadme
 
 INPUT = {
-    "leet_name": "76. Minimum Window Substring",
-    "lint_name": "32 · Minimum Window Substring"
+    "leet_name": "1. Two Sum",
+    "lint_name": "56 · Two Sum"
 }
 
 

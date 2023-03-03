@@ -1,4 +1,4 @@
-# Total: 15
+# Total: 17
 
 ### Binary Search
 
@@ -35,4 +35,8 @@
 [0283. Move Zeroes](problems/0283.%20Move%20Zeroes.md)
 
 ### Untagged
+
+[0015. 3Sum](problems/0015.%203Sum.md)
+
+[0001. Two Sum](problems/0001.%20Two%20Sum.md)
 
