@@ -3,8 +3,9 @@ from utils.leetcode_helper import LeetcodeHelper
 from utils.update_readme import UpdateReadme
 
 INPUT = {
-    "leet_name": "1. Two Sum",
-    "lint_name": "56 · Two Sum"
+    "leet_name": "3. Longest Substring Without Repeating Characters",
+    "lint_name": "384 · Longest Substring Without Repeating Characters",
+    "tags": "Two Pointers"
 }
 
 
@@ -58,7 +59,11 @@ class GenerateProblem(object):
         difficulty = 'Difficulty: {}'.format(self.input['difficulty'])
         leet = '[LeetCode: {}]({})'.format(self.input['leet_name'], self.input['leet_url'])
         lint = '[LintCode: {}]({})'.format(self.input['lint_name'], self.input['lint_url'])
-        result = '{}\n\n{}\n\n{}\n\n{}\n\n{}\n\n'.format(difficulty, 'Tags: ', 'Need Reviwe: False', leet, lint)
+        result = f'{difficulty}\n\n' \
+                 f'Tags: {self.input["tags"]}\n\n' \
+                 f'Need Review: False\n\n' \
+                 f'{leet}\n\n' \
+                 f'{lint}\n\n'
         return result
 
     def get_question(self):
