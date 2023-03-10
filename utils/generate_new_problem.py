@@ -1,10 +1,11 @@
 from os import path
 from utils.leetcode_helper import LeetcodeHelper
 from utils.update_readme import UpdateReadme
+from datetime import date
 
 INPUT = {
-    "leet_name": "209. Minimum Size Subarray Sum",
-    "lint_name": "406 · Minimum Size Subarray Sum",
+    "leet_name": "125. Valid Palindrome",
+    "lint_name": "415 · Valid Palindrome",
     "tags": "Two Pointers"
 }
 
@@ -62,6 +63,7 @@ class GenerateProblem(object):
         result = f'{difficulty}\n\n' \
                  f'Tags: {self.input["tags"]}\n\n' \
                  f'Need Review: False\n\n' \
+                 f'Date Added: {date.today()}\n\n' \
                  f'{leet}\n\n' \
                  f'{lint}\n\n'
         return result

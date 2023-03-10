@@ -1,4 +1,4 @@
-# Total: 19
+# Total: 20
 
 ### Binary Search
 
@@ -27,6 +27,8 @@
 [0003. Longest Substring Without Repeating Characters](problems/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 
 [0340. Longest Substring with At Most K Distinct Characters](problems/0340.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters.md)
+
+[0125. Valid Palindrome](problems/0125.%20Valid%20Palindrome.md)
 
 [0021. Merge Two Sorted Lists](problems/0021.%20Merge%20Two%20Sorted%20Lists.md)
 
