@@ -1,4 +1,4 @@
-# Total: 20
+# Total: 21
 
 ### Binary Search
 
@@ -21,6 +21,8 @@
 [0704. Binary Search](problems/0704.%20Binary%20Search.md)
 
 ### Two Pointers
+
+[0016. 3Sum Closest](problems/0016.%203Sum%20Closest.md)
 
 [0209. Minimum Size Subarray Sum](problems/0209.%20Minimum%20Size%20Subarray%20Sum.md)
 

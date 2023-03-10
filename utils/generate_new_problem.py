@@ -4,8 +4,8 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "125. Valid Palindrome",
-    "lint_name": "415 · Valid Palindrome",
+    "leet_name": "16. 3Sum Closest",
+    "lint_name": "59 · 3Sum Closest",
     "tags": "Two Pointers"
 }
 
