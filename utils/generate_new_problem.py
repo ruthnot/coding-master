@@ -3,8 +3,8 @@ from utils.leetcode_helper import LeetcodeHelper
 from utils.update_readme import UpdateReadme
 
 INPUT = {
-    "leet_name": "3. Longest Substring Without Repeating Characters",
-    "lint_name": "384 · Longest Substring Without Repeating Characters",
+    "leet_name": "209. Minimum Size Subarray Sum",
+    "lint_name": "406 · Minimum Size Subarray Sum",
     "tags": "Two Pointers"
 }
 
