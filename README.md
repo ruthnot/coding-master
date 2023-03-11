@@ -1,4 +1,4 @@
-# Total: 21
+# Total: 22
 
 ### Binary Search
 
@@ -8,7 +8,7 @@
 
 [0658. Find K Closest Elements](problems/0658.%20Find%20K%20Closest%20Elements.md)
 
-[0034.Find First and Last Position of Element in Sorted Array](problems/0034.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
+[0034. Find First and Last Position of Element in Sorted Array](problems/0034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
 
 [1891. Cutting Ribbons](problems/1891.%20Cutting%20Ribbons.md)
 
@@ -35,6 +35,8 @@
 [0021. Merge Two Sorted Lists](problems/0021.%20Merge%20Two%20Sorted%20Lists.md)
 
 [0015. 3Sum](problems/0015.%203Sum.md)
+
+[0533. Two Sum Closest to Target (LeetCode)](problems/0533.%20Two%20Sum%20Closest%20to%20Target%20(LeetCode).md)
 
 [0088. Merge Sorted Array](problems/0088.%20Merge%20Sorted%20Array.md)
 
