@@ -4,8 +4,8 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "16. 3Sum Closest",
-    "lint_name": "59 · 3Sum Closest",
+    "leet_name": "1099. Two Sum Less Than K",
+    "lint_name": "609 · Two Sum - Less than or equal to target",
     "tags": "Two Pointers"
 }
 
@@ -47,6 +47,7 @@ class GenerateProblem(object):
 
         # Update README
         UpdateReadme().update()
+
 
     def get_name(self, leet_name):
         number = leet_name.split('.')[0]
