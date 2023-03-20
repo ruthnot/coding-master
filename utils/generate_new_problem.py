@@ -4,8 +4,8 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "1099. Two Sum Less Than K",
-    "lint_name": "609 · Two Sum - Less than or equal to target",
+    "leet_name": "2161. Partition Array According to Given Pivot",
+    "lint_name": "31 · Partition Array",
     "tags": "Two Pointers"
 }
 
