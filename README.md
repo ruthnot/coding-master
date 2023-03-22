@@ -1,4 +1,4 @@
-# Total: 24
+# Total: 26
 
 ### Binary Search
 
@@ -40,17 +40,21 @@
 
 [2161. Partition Array According to Given Pivot](problems/2161.%20Partition%20Array%20According%20to%20Given%20Pivot.md)
 
-[0533. Two Sum Closest to Target (LeetCode)](problems/0533.%20Two%20Sum%20Closest%20to%20Target%20(LeetCode).md)
+[0443. Two Sum - Greater than target (Lintcode)](problems/0443.%20Two%20Sum%20-%20Greater%20than%20target%20(Lintcode).md)
 
 [0088. Merge Sorted Array](problems/0088.%20Merge%20Sorted%20Array.md)
 
 [0076. Minimum Window Substring](problems/0076.%20Minimum%20Window%20Substring.md)
+
+[0167. Two Sum II - Input Array Is Sorted](problems/0167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.md)
 
 [0001. Two Sum](problems/0001.%20Two%20Sum.md)
 
 [0026. Remove Duplicates from Sorted Array](problems/0026.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 
 [0283. Move Zeroes](problems/0283.%20Move%20Zeroes.md)
+
+[0533. Two Sum Closest to Target (LintCode)](problems/0533.%20Two%20Sum%20Closest%20to%20Target%20(LintCode).md)
 
 ### Untagged
 

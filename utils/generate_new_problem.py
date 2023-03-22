@@ -4,8 +4,8 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "2161. Partition Array According to Given Pivot",
-    "lint_name": "31 · Partition Array",
+    "leet_name": "167. Two Sum II - Input Array Is Sorted",
+    "lint_name": "608 · Two Sum II - Input array is sorted",
     "tags": "Two Pointers"
 }
 
@@ -18,7 +18,9 @@ class GenerateProblem(object):
 
     def input_parser(self):
         leet_id = self.input['leet_name'].split('.')[0]
-        leet_slug = '-'.join(self.input['leet_name'].split(' ')[1:]).lower()
+        leet_name = self.input['leet_name']
+        leet_name = leet_name.replace('- ', '')  # delete any preexisting dash (and following space)  3/22/2023
+        leet_slug = '-'.join(leet_name.split(' ')[1:]).lower()
         lint_id = self.input['lint_name'].split('·')[0]
         self.input['leet_id'] = leet_id
         self.input['leet_slug'] = leet_slug
