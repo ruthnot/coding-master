@@ -4,8 +4,8 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "167. Two Sum II - Input Array Is Sorted",
-    "lint_name": "608 · Two Sum II - Input array is sorted",
+    "leet_name": "876. Middle of the Linked List",
+    "lint_name": "228 · Middle of Linked List",
     "tags": "Two Pointers"
 }
 

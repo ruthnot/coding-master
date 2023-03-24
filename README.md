@@ -1,4 +1,4 @@
-# Total: 26
+# Total: 27
 
 ### Binary Search
 
@@ -27,6 +27,8 @@
 [0209. Minimum Size Subarray Sum](problems/0209.%20Minimum%20Size%20Subarray%20Sum.md)
 
 [0003. Longest Substring Without Repeating Characters](problems/0003.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
+
+[0876. Middle of the Linked List](problems/0876.%20Middle%20of%20the%20Linked%20List.md)
 
 [0340. Longest Substring with At Most K Distinct Characters](problems/0340.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters.md)
 
