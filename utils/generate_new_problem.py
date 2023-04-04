@@ -4,8 +4,8 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "876. Middle of the Linked List",
-    "lint_name": "228 · Middle of Linked List",
+    "leet_name": "1513. Number of Substrings With Only 1s",
+    "lint_name": "1870 · Number of Substrings with All Zeroes",
     "tags": "Two Pointers"
 }
 

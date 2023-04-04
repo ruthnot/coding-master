@@ -6,6 +6,7 @@ from problem_manager import ProblemManager
 
 PROBLEM_REQ = 3
 
+
 class Tracker(object):
     def __init__(self):
         self.problems = ProblemManager()

@@ -1,4 +1,4 @@
-# Total: 27
+# Total: 28
 
 ### Binary Search
 
@@ -47,6 +47,8 @@
 [0088. Merge Sorted Array](problems/0088.%20Merge%20Sorted%20Array.md)
 
 [0076. Minimum Window Substring](problems/0076.%20Minimum%20Window%20Substring.md)
+
+[1513. Number of Substrings With Only 1s](problems/1513.%20Number%20of%20Substrings%20With%20Only%201s.md)
 
 [0167. Two Sum II - Input Array Is Sorted](problems/0167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.md)
 

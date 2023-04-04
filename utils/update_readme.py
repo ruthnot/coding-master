@@ -1,7 +1,7 @@
 import os
 from collections import OrderedDict
 
-TAGS = ('Binary Search', 'Two Pointers', 'Untagged')
+TAGS = ('Binary Search', 'Two Pointers', 'Math', 'Untagged')
 
 class UpdateReadme(object):
     def __init__(self, tags=TAGS):
