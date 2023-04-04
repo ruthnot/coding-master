@@ -4,8 +4,8 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "1513. Number of Substrings With Only 1s",
-    "lint_name": "1870 · Number of Substrings with All Zeroes",
+    "leet_name": "1. Two Sum",
+    "lint_name": "56 · Two Sum",
     "tags": "Two Pointers"
 }
 

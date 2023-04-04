@@ -1,4 +1,4 @@
-# Total: 28
+# Total: 29
 
 ### Binary Search
 
@@ -36,6 +36,8 @@
 
 [0021. Merge Two Sorted Lists](problems/0021.%20Merge%20Two%20Sorted%20Lists.md)
 
+[0005. Longest Palindromic Substring](problems/0005.%20Longest%20Palindromic%20Substring.md)
+
 [0015. 3Sum](problems/0015.%203Sum.md)
 
 [1099. Two Sum Less Than K](problems/1099.%20Two%20Sum%20Less%20Than%20K.md)
@@ -48,8 +50,6 @@
 
 [0076. Minimum Window Substring](problems/0076.%20Minimum%20Window%20Substring.md)
 
-[1513. Number of Substrings With Only 1s](problems/1513.%20Number%20of%20Substrings%20With%20Only%201s.md)
-
 [0167. Two Sum II - Input Array Is Sorted](problems/0167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.md)
 
 [0001. Two Sum](problems/0001.%20Two%20Sum.md)
@@ -59,6 +59,10 @@
 [0283. Move Zeroes](problems/0283.%20Move%20Zeroes.md)
 
 [0533. Two Sum Closest to Target (LintCode)](problems/0533.%20Two%20Sum%20Closest%20to%20Target%20(LintCode).md)
+
+### Math
+
+[1513. Number of Substrings With Only 1s](problems/1513.%20Number%20of%20Substrings%20With%20Only%201s.md)
 
 ### Untagged
 
