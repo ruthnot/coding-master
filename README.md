@@ -36,7 +36,7 @@
 
 [0021. Merge Two Sorted Lists](problems/0021.%20Merge%20Two%20Sorted%20Lists.md)
 
-[0005. Longest Palindromic Substring](problems/0005.%20Longest%20Palindromic%20Substring.md)
+[1375. Substring With At Least K Distinct Characters (Lintcode)](problems/1375.%20Substring%20With%20At%20Least%20K%20Distinct%20Characters%20(Lintcode).md)
 
 [0015. 3Sum](problems/0015.%203Sum.md)
 
