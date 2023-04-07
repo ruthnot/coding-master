@@ -1,4 +1,4 @@
-# Total: 30
+# Total: 31
 
 ### Binary Search
 
@@ -63,6 +63,8 @@
 ### BFS
 
 [0102. Binary Tree Level Order Traversal](problems/0102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
+
+[0111. Minimum Depth of Binary Tree](problems/0111.%20Minimum%20Depth%20of%20Binary%20Tree.md)
 
 ### Math
 
