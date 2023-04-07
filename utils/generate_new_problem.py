@@ -4,9 +4,9 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "1. Two Sum",
-    "lint_name": "56 · Two Sum",
-    "tags": "Two Pointers"
+    "leet_name": "102. Binary Tree Level Order Traversal",
+    "lint_name": "69 · Binary Tree Level Order Traversal",
+    "tags": "BFS"
 }
 
 
