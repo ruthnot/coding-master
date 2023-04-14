@@ -1,4 +1,4 @@
-# Total: 32
+# Total: 34
 
 ### Binary Search
 
@@ -65,6 +65,10 @@
 [0102. Binary Tree Level Order Traversal](0102.%20Binary%20Tree%20Level%20Order%20Traversal)
 
 [0773. Sliding Puzzle](0773.%20Sliding%20Puzzle)
+
+[0127. Word Ladder](0127.%20Word%20Ladder)
+
+[0323. Number of Connected Components in an Undirected Graph](0323.%20Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph)
 
 [0111. Minimum Depth of Binary Tree](0111.%20Minimum%20Depth%20of%20Binary%20Tree)
 
