@@ -4,8 +4,8 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "863. All Nodes Distance K in Binary Tree",
-    "lint_name": "939 · Binary Tree Kth Floor Node",
+    "leet_name": "994. Rotting Oranges",
+    "lint_name": "598 · Zombie in Matrix",
     "tags": "BFS"
 }
 
