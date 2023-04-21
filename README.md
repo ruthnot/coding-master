@@ -1,4 +1,4 @@
-# Total: 38
+# Total: 40
 
 ### Binary Search
 
@@ -66,9 +66,13 @@
 
 [0994. Rotting Oranges](0994.%20Rotting%20Oranges)
 
+[0618. Search Graph Nodes (LintCode)](0618.%20Search%20Graph%20Nodes%20(LintCode))
+
 [0773. Sliding Puzzle](0773.%20Sliding%20Puzzle)
 
 [0939. Binary Tree Kth Floor Node (LintCode)](0939.%20Binary%20Tree%20Kth%20Floor%20Node%20(LintCode))
+
+[0207. Course Schedule](0207.%20Course%20Schedule)
 
 [0127. Word Ladder](0127.%20Word%20Ladder)
 
