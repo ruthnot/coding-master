@@ -1,4 +1,4 @@
-# Total: 40
+# Total: 41
 
 ### Binary Search
 
@@ -72,8 +72,6 @@
 
 [0939. Binary Tree Kth Floor Node (LintCode)](0939.%20Binary%20Tree%20Kth%20Floor%20Node%20(LintCode))
 
-[0207. Course Schedule](0207.%20Course%20Schedule)
-
 [0127. Word Ladder](0127.%20Word%20Ladder)
 
 [0133. Clone Graph](0133.%20Clone%20Graph)
@@ -89,4 +87,10 @@
 [1513. Number of Substrings With Only 1s](1513.%20Number%20of%20Substrings%20With%20Only%201s)
 
 ### Untagged
+
+### Topological Sort
+
+[0210. Course Schedule II](0210.%20Course%20Schedule%20II)
+
+[0207. Course Schedule](0207.%20Course%20Schedule)
 

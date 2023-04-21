@@ -4,8 +4,8 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "207. Course Schedule",
-    "lint_name": "615 · Course Schedule",
+    "leet_name": "210. Course Schedule II",
+    "lint_name": "616 · Course Schedule II",
     "tags": "Topological Sort"
 }
 
