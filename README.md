@@ -1,4 +1,4 @@
-# Total: 41
+# Total: 44
 
 ### Binary Search
 
@@ -64,9 +64,13 @@
 
 [0102. Binary Tree Level Order Traversal](0102.%20Binary%20Tree%20Level%20Order%20Traversal)
 
+[0490. The Maze](0490.%20The%20Maze)
+
 [0994. Rotting Oranges](0994.%20Rotting%20Oranges)
 
 [0618. Search Graph Nodes (LintCode)](0618.%20Search%20Graph%20Nodes%20(LintCode))
+
+[0505. The Maze II](0505.%20The%20Maze%20II)
 
 [0773. Sliding Puzzle](0773.%20Sliding%20Puzzle)
 
@@ -93,4 +97,6 @@
 [0210. Course Schedule II](0210.%20Course%20Schedule%20II)
 
 [0207. Course Schedule](0207.%20Course%20Schedule)
+
+[0127. Topological Sorting (LintCode)](0127.%20Topological%20Sorting%20(LintCode))
 
