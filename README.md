@@ -1,4 +1,4 @@
-# Total: 44
+# Total: 46
 
 ### Binary Search
 
@@ -82,6 +82,8 @@
 
 [1197. Minimum Knight Moves](1197.%20Minimum%20Knight%20Moves)
 
+[0261. Graph Valid Tree](0261.%20Graph%20Valid%20Tree)
+
 [0323. Number of Connected Components in an Undirected Graph](0323.%20Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph)
 
 [0111. Minimum Depth of Binary Tree](0111.%20Minimum%20Depth%20of%20Binary%20Tree)
@@ -95,6 +97,8 @@
 ### Topological Sort
 
 [0210. Course Schedule II](0210.%20Course%20Schedule%20II)
+
+[0444. Sequence Reconstruction](0444.%20Sequence%20Reconstruction)
 
 [0207. Course Schedule](0207.%20Course%20Schedule)
 
