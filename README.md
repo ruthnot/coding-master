@@ -1,4 +1,4 @@
-# Total: 47
+# Total: 48
 
 ### Binary Search
 
@@ -97,6 +97,8 @@
 ### DFS
 
 [0200. Number of Islands](0200.%20Number%20of%20Islands)
+
+[0547. Number of Provinces](0547.%20Number%20of%20Provinces)
 
 ### Topological Sort
 
