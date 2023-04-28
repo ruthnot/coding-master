@@ -1,4 +1,4 @@
-# Total: 46
+# Total: 47
 
 ### Binary Search
 
@@ -93,6 +93,10 @@
 [1513. Number of Substrings With Only 1s](1513.%20Number%20of%20Substrings%20With%20Only%201s)
 
 ### Untagged
+
+### DFS
+
+[0200. Number of Islands](0200.%20Number%20of%20Islands)
 
 ### Topological Sort
 
