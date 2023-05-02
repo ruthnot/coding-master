@@ -1,4 +1,4 @@
-# Total: 48
+# Total: 50
 
 ### Binary Search
 
@@ -76,6 +76,8 @@
 
 [0939. Binary Tree Kth Floor Node (LintCode)](0939.%20Binary%20Tree%20Kth%20Floor%20Node%20(LintCode))
 
+[0242. Convert Binary Tree to Linked Lists by Depth (LintCode)](0242.%20Convert%20Binary%20Tree%20to%20Linked%20Lists%20by%20Depth%20(LintCode))
+
 [0127. Word Ladder](0127.%20Word%20Ladder)
 
 [0133. Clone Graph](0133.%20Clone%20Graph)
@@ -99,6 +101,8 @@
 [0200. Number of Islands](0200.%20Number%20of%20Islands)
 
 [0547. Number of Provinces](0547.%20Number%20of%20Provinces)
+
+[0077. Combinations](0077.%20Combinations)
 
 ### Topological Sort
 
