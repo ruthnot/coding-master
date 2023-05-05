@@ -1,4 +1,4 @@
-# Total: 51
+# Total: 52
 
 ### Binary Search
 
@@ -103,6 +103,8 @@
 [0046. Permutations](0046.%20Permutations)
 
 [0547. Number of Provinces](0547.%20Number%20of%20Provinces)
+
+[0047. Permutations II](0047.%20Permutations%20II)
 
 [0077. Combinations](0077.%20Combinations)
 
