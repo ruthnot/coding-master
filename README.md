@@ -1,4 +1,4 @@
-# Total: 50
+# Total: 51
 
 ### Binary Search
 
@@ -99,6 +99,8 @@
 ### DFS
 
 [0200. Number of Islands](0200.%20Number%20of%20Islands)
+
+[0046. Permutations](0046.%20Permutations)
 
 [0547. Number of Provinces](0547.%20Number%20of%20Provinces)
 

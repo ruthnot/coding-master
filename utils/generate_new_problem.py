@@ -4,8 +4,8 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "77. Combinations",
-    "lint_name": "152 · Combinations",
+    "leet_name": "46. Permutations",
+    "lint_name": "15 · Permutations",
     "tags": "DFS"
 }
 
