@@ -1,4 +1,4 @@
-# Total: 55
+# Total: 56
 
 ### Binary Search
 
@@ -99,6 +99,8 @@
 ### DFS
 
 [0200. Number of Islands](0200.%20Number%20of%20Islands)
+
+[0052. N-Queens II](0052.%20N-Queens%20II)
 
 [0046. Permutations](0046.%20Permutations)
 
