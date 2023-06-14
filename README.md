@@ -1,4 +1,4 @@
-# Total: 60
+# Total: 62
 
 ### Binary Search
 
@@ -104,6 +104,8 @@
 
 [0046. Permutations](0046.%20Permutations)
 
+[254. Factor Combinations](254.%20Factor%20Combinations)
+
 [0051. N-Queens](0051.%20N-Queens)
 
 [0547. Number of Provinces](0547.%20Number%20of%20Provinces)
@@ -123,6 +125,10 @@
 [0017. Letter Combinations of a Phone Number](0017.%20Letter%20Combinations%20of%20a%20Phone%20Number)
 
 [0093. Restore IP Addresses](0093.%20Restore%20IP%20Addresses)
+
+### DP
+
+[0064. Minimum Path Sum](0064.%20Minimum%20Path%20Sum)
 
 ### Topological Sort
 

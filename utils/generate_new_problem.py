@@ -4,9 +4,9 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "90. Subsets II",
-    "lint_name": "18 · Subsets II",
-    "tags": "DFS"
+    "leet_name": "64. Minimum Path Sum",
+    "lint_name": "110 · Minimum Path Sum",
+    "tags": "DP"
 }
 
 
