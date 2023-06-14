@@ -4,8 +4,8 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "64. Minimum Path Sum",
-    "lint_name": "110 · Minimum Path Sum",
+    "leet_name": "674. Longest Continuous Increasing Subsequence",
+    "lint_name": "397 · Longest Continuous Increasing Subsequence",
     "tags": "DP"
 }
 

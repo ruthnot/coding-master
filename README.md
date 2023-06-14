@@ -1,4 +1,4 @@
-# Total: 62
+# Total: 63
 
 ### Binary Search
 
@@ -129,6 +129,8 @@
 ### DP
 
 [0064. Minimum Path Sum](0064.%20Minimum%20Path%20Sum)
+
+[0674. Longest Continuous Increasing Subsequence](0674.%20Longest%20Continuous%20Increasing%20Subsequence)
 
 ### Topological Sort
 
