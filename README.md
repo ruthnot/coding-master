@@ -1,4 +1,4 @@
-# Total: 64
+# Total: 65
 
 ### Binary Search
 
@@ -129,6 +129,8 @@
 ### DP
 
 [0064. Minimum Path Sum](0064.%20Minimum%20Path%20Sum)
+
+[0091. Decode Ways](0091.%20Decode%20Ways)
 
 [0062. Unique Paths](0062.%20Unique%20Paths)
 
