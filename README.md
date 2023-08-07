@@ -1,4 +1,4 @@
-# Total: 65
+# Total: 66
 
 ### Binary Search
 
@@ -135,6 +135,8 @@
 [0062. Unique Paths](0062.%20Unique%20Paths)
 
 [0674. Longest Continuous Increasing Subsequence](0674.%20Longest%20Continuous%20Increasing%20Subsequence)
+
+[0139. Word Break](0139.%20Word%20Break)
 
 ### Topological Sort
 
