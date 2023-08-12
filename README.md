@@ -1,4 +1,4 @@
-# Total: 68
+# Total: 69
 
 ### Binary Search
 
@@ -137,6 +137,8 @@
 [0062. Unique Paths](0062.%20Unique%20Paths)
 
 [0674. Longest Continuous Increasing Subsequence](0674.%20Longest%20Continuous%20Increasing%20Subsequence)
+
+[1143. Longest Common Subsequence](1143.%20Longest%20Common%20Subsequence)
 
 [0437. Copy Books (LintCode)](0437.%20Copy%20Books%20(LintCode))
 
