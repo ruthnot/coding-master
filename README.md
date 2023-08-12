@@ -1,4 +1,4 @@
-# Total: 66
+# Total: 68
 
 ### Binary Search
 
@@ -130,11 +130,15 @@
 
 [0064. Minimum Path Sum](0064.%20Minimum%20Path%20Sum)
 
+[0044. Wildcard Matching](0044.%20Wildcard%20Matching)
+
 [0091. Decode Ways](0091.%20Decode%20Ways)
 
 [0062. Unique Paths](0062.%20Unique%20Paths)
 
 [0674. Longest Continuous Increasing Subsequence](0674.%20Longest%20Continuous%20Increasing%20Subsequence)
+
+[0437. Copy Books (LintCode)](0437.%20Copy%20Books%20(LintCode))
 
 [0139. Word Break](0139.%20Word%20Break)
 
