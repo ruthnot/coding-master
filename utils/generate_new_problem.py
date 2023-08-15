@@ -4,8 +4,8 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "1143. Longest Common Subsequence",
-    "lint_name": "77 · Longest Common Subsequence",
+    "leet_name": "300. Longest Increasing Subsequence",
+    "lint_name": "76 · Longest Increasing Subsequence",
     "tags": "DP"
 }
 

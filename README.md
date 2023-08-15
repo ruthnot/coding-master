@@ -1,4 +1,4 @@
-# Total: 69
+# Total: 70
 
 ### Binary Search
 
@@ -143,6 +143,8 @@
 [0437. Copy Books (LintCode)](0437.%20Copy%20Books%20(LintCode))
 
 [0139. Word Break](0139.%20Word%20Break)
+
+[0300. Longest Increasing Subsequence](0300.%20Longest%20Increasing%20Subsequence)
 
 ### Topological Sort
 
