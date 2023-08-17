@@ -4,8 +4,8 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "329. Longest Increasing Path in a Matrix",
-    "lint_name": "398 · Longest Ascent Path",
+    "leet_name": "368. Largest Divisible Subset",
+    "lint_name": "603 · Largest Divisible Subset",
     "tags": "DP"
 }
 
