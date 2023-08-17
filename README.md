@@ -1,4 +1,4 @@
-# Total: 70
+# Total: 71
 
 ### Binary Search
 
@@ -137,6 +137,8 @@
 [0062. Unique Paths](0062.%20Unique%20Paths)
 
 [0674. Longest Continuous Increasing Subsequence](0674.%20Longest%20Continuous%20Increasing%20Subsequence)
+
+[0329. Longest Increasing Path in a Matrix](0329.%20Longest%20Increasing%20Path%20in%20a%20Matrix)
 
 [1143. Longest Common Subsequence](1143.%20Longest%20Common%20Subsequence)
 
