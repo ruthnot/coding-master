@@ -1,4 +1,4 @@
-# Total: 73
+# Total: 74
 
 ### Binary Search
 
@@ -137,6 +137,8 @@
 [0062. Unique Paths](0062.%20Unique%20Paths)
 
 [0368. Largest Divisible Subset](0368.%20Largest%20Divisible%20Subset)
+
+[0312. Burst Balloons](0312.%20Burst%20Balloons)
 
 [0674. Longest Continuous Increasing Subsequence](0674.%20Longest%20Continuous%20Increasing%20Subsequence)
 

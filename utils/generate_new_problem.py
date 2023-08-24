@@ -4,8 +4,8 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "5. Longest Palindromic Substring",
-    "lint_name": "200 · Longest Palindromic Substring",
+    "leet_name": "312. Burst Balloons",
+    "lint_name": "168 · Burst Balloons",
     "tags": "DP"
 }
 
