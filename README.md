@@ -1,4 +1,4 @@
-# Total: 75
+# Total: 76
 
 ### Binary Search
 
@@ -96,6 +96,38 @@
 
 ### Untagged
 
+### DP
+
+[0055. Jump Game](0055.%20Jump%20Game)
+
+[0064. Minimum Path Sum](0064.%20Minimum%20Path%20Sum)
+
+[0044. Wildcard Matching](0044.%20Wildcard%20Matching)
+
+[0091. Decode Ways](0091.%20Decode%20Ways)
+
+[0062. Unique Paths](0062.%20Unique%20Paths)
+
+[0368. Largest Divisible Subset](0368.%20Largest%20Divisible%20Subset)
+
+[0312. Burst Balloons](0312.%20Burst%20Balloons)
+
+[0674. Longest Continuous Increasing Subsequence](0674.%20Longest%20Continuous%20Increasing%20Subsequence)
+
+[0329. Longest Increasing Path in a Matrix](0329.%20Longest%20Increasing%20Path%20in%20a%20Matrix)
+
+[0005. Longest Palindromic Substring](0005.%20Longest%20Palindromic%20Substring)
+
+[1143. Longest Common Subsequence](1143.%20Longest%20Common%20Subsequence)
+
+[0437. Copy Books (LintCode)](0437.%20Copy%20Books%20(LintCode))
+
+[0139. Word Break](0139.%20Word%20Break)
+
+[0300. Longest Increasing Subsequence](0300.%20Longest%20Increasing%20Subsequence)
+
+[0354. Russian Doll Envelopes](0354.%20Russian%20Doll%20Envelopes)
+
 ### DFS
 
 [0200. Number of Islands](0200.%20Number%20of%20Islands)
@@ -125,36 +157,6 @@
 [0017. Letter Combinations of a Phone Number](0017.%20Letter%20Combinations%20of%20a%20Phone%20Number)
 
 [0093. Restore IP Addresses](0093.%20Restore%20IP%20Addresses)
-
-### DP
-
-[0064. Minimum Path Sum](0064.%20Minimum%20Path%20Sum)
-
-[0044. Wildcard Matching](0044.%20Wildcard%20Matching)
-
-[0091. Decode Ways](0091.%20Decode%20Ways)
-
-[0062. Unique Paths](0062.%20Unique%20Paths)
-
-[0368. Largest Divisible Subset](0368.%20Largest%20Divisible%20Subset)
-
-[0312. Burst Balloons](0312.%20Burst%20Balloons)
-
-[0674. Longest Continuous Increasing Subsequence](0674.%20Longest%20Continuous%20Increasing%20Subsequence)
-
-[0329. Longest Increasing Path in a Matrix](0329.%20Longest%20Increasing%20Path%20in%20a%20Matrix)
-
-[0005. Longest Palindromic Substring](0005.%20Longest%20Palindromic%20Substring)
-
-[1143. Longest Common Subsequence](1143.%20Longest%20Common%20Subsequence)
-
-[0437. Copy Books (LintCode)](0437.%20Copy%20Books%20(LintCode))
-
-[0139. Word Break](0139.%20Word%20Break)
-
-[0300. Longest Increasing Subsequence](0300.%20Longest%20Increasing%20Subsequence)
-
-[0354. Russian Doll Envelopes](0354.%20Russian%20Doll%20Envelopes)
 
 ### Topological Sort
 
