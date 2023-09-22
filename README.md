@@ -1,4 +1,4 @@
-# Total: 76
+# Total: 78
 
 ### Binary Search
 
@@ -106,6 +106,8 @@
 
 [0091. Decode Ways](0091.%20Decode%20Ways)
 
+[0092.  Backpack (Lint Code)](0092.%20%20Backpack%20(Lint%20Code))
+
 [0062. Unique Paths](0062.%20Unique%20Paths)
 
 [0368. Largest Divisible Subset](0368.%20Largest%20Divisible%20Subset)
@@ -167,4 +169,8 @@
 [0207. Course Schedule](0207.%20Course%20Schedule)
 
 [0127. Topological Sorting (LintCode)](0127.%20Topological%20Sorting%20(LintCode))
+
+### Hash
+
+[0409. Longest Palindrome](0409.%20Longest%20Palindrome)
 

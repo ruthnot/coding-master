@@ -4,9 +4,9 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "55. Jump Game",
-    "lint_name": "116 · Jump Game",
-    "tags": "DP"
+    "leet_name": "409. Longest Palindrome",
+    "lint_name": "627 · Longest Palindrome",
+    "tags": "Hash"
 }
 
 
