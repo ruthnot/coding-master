@@ -1,4 +1,4 @@
-# Total: 78
+# Total: 81
 
 ### Binary Search
 
@@ -159,6 +159,14 @@
 [0017. Letter Combinations of a Phone Number](0017.%20Letter%20Combinations%20of%20a%20Phone%20Number)
 
 [0093. Restore IP Addresses](0093.%20Restore%20IP%20Addresses)
+
+[596 · Minimum Subtree (Lintcode)](596%20·%20Minimum%20Subtree%20(Lintcode))
+
+### Binary Tree
+
+[1120. Maximum Average Subtree](1120.%20Maximum%20Average%20Subtree)
+
+[0114. Flatten Binary Tree to Linked List](0114.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
 
 ### Topological Sort
 
