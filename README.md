@@ -1,4 +1,4 @@
-# Total: 81
+# Total: 82
 
 ### Binary Search
 
@@ -181,4 +181,8 @@
 ### Hash
 
 [0409. Longest Palindrome](0409.%20Longest%20Palindrome)
+
+### Binary Search Tree
+
+[0701. Insert into a Binary Search Tree](0701.%20Insert%20into%20a%20Binary%20Search%20Tree)
 

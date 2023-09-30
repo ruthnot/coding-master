@@ -4,9 +4,9 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "114. Flatten Binary Tree to Linked List",
-    "lint_name": "453 · Flatten Binary Tree to Linked List",
-    "tags": "Binary Tree"
+    "leet_name": "701. Insert into a Binary Search Tree",
+    "lint_name": "85 · Insert Node in a Binary Search Tree",
+    "tags": "Binary Search Tree"
 }
 
 
