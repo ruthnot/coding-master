@@ -1,4 +1,4 @@
-# Total: 82
+# Total: 83
 
 ### Binary Search
 
@@ -96,6 +96,14 @@
 
 ### Untagged
 
+### Binary Tree
+
+[0226. Invert Binary Tree](0226.%20Invert%20Binary%20Tree)
+
+[1120. Maximum Average Subtree](1120.%20Maximum%20Average%20Subtree)
+
+[0114. Flatten Binary Tree to Linked List](0114.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
+
 ### DP
 
 [0055. Jump Game](0055.%20Jump%20Game)
@@ -161,12 +169,6 @@
 [0093. Restore IP Addresses](0093.%20Restore%20IP%20Addresses)
 
 [596 · Minimum Subtree (Lintcode)](596%20·%20Minimum%20Subtree%20(Lintcode))
-
-### Binary Tree
-
-[1120. Maximum Average Subtree](1120.%20Maximum%20Average%20Subtree)
-
-[0114. Flatten Binary Tree to Linked List](0114.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
 
 ### Topological Sort
 
