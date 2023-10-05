@@ -1,4 +1,4 @@
-# Total: 83
+# Total: 85
 
 ### Binary Search
 
@@ -104,6 +104,10 @@
 
 [0114. Flatten Binary Tree to Linked List](0114.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
 
+### BSt
+
+[0011. Search Range in Binary Search Tree (LintCode)](0011.%20Search%20Range%20in%20Binary%20Search%20Tree%20(LintCode))
+
 ### DP
 
 [0055. Jump Game](0055.%20Jump%20Game)
@@ -169,6 +173,10 @@
 [0093. Restore IP Addresses](0093.%20Restore%20IP%20Addresses)
 
 [596 · Minimum Subtree (Lintcode)](596%20·%20Minimum%20Subtree%20(Lintcode))
+
+### BST
+
+[0098. Validate Binary Search Tree](0098.%20Validate%20Binary%20Search%20Tree)
 
 ### Topological Sort
 
