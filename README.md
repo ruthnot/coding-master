@@ -1,4 +1,4 @@
-# Total: 85
+# Total: 86
 
 ### Binary Search
 
@@ -177,6 +177,8 @@
 ### BST
 
 [0098. Validate Binary Search Tree](0098.%20Validate%20Binary%20Search%20Tree)
+
+[0235. Lowest Common Ancestor of a Binary Search Tree](0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)
 
 ### Topological Sort
 
