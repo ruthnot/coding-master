@@ -1,4 +1,4 @@
-# Total: 86
+# Total: 87
 
 ### Binary Search
 
@@ -177,6 +177,8 @@
 ### BST
 
 [0098. Validate Binary Search Tree](0098.%20Validate%20Binary%20Search%20Tree)
+
+[0236. Lowest Common Ancestor of a Binary Tree](0236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)
 
 [0235. Lowest Common Ancestor of a Binary Search Tree](0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)
 
