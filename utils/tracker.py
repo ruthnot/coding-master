@@ -81,7 +81,7 @@ class Tracker(object):
         # Calculate Plan vs Actual
         actual = max(self.y_actual)
         plan = int(today_num + 1) * PROBLEM_REQ
-        plt.title(f'Planned: {plan} vs Actual: {actual}')
+        plt.title(f'Planned: {plan} vs Actual: {actual} - Gap: {plan - actual}')
 
 
         plt.legend()
