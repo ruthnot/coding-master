@@ -1,4 +1,4 @@
-# Total: 87
+# Total: 90
 
 ### Binary Search
 
@@ -100,9 +100,15 @@
 
 [0226. Invert Binary Tree](0226.%20Invert%20Binary%20Tree)
 
+[1650. Lowest Common Ancestor of a Binary Tree III](1650.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree%20III)
+
 [1120. Maximum Average Subtree](1120.%20Maximum%20Average%20Subtree)
 
+[0112. Path Sum](0112.%20Path%20Sum)
+
 [0114. Flatten Binary Tree to Linked List](0114.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
+
+[1650. Lowest Common Ancestor of a Binary Tree II](1650.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree%20II)
 
 ### BSt
 

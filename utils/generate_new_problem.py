@@ -4,9 +4,9 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "236. Lowest Common Ancestor of a Binary Tree",
-    "lint_name": "88 · Lowest Common Ancestor of a Binary Tree",
-    "tags": "BST"
+    "leet_name": "112. Path Sum",
+    "lint_name": "376 · Binary Tree Path Sum",
+    "tags": "Binary Tree"
 }
 
 
