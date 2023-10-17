@@ -1,4 +1,4 @@
-# Total: 92
+# Total: 93
 
 ### Binary Search
 
@@ -111,6 +111,8 @@
 [0112. Path Sum](0112.%20Path%20Sum)
 
 [0114. Flatten Binary Tree to Linked List](0114.%20Flatten%20Binary%20Tree%20to%20Linked%20List)
+
+[0257. Binary Tree Paths](0257.%20Binary%20Tree%20Paths)
 
 [1650. Lowest Common Ancestor of a Binary Tree II](1650.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree%20II)
 
