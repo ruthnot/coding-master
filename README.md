@@ -1,4 +1,4 @@
-# Total: 91
+# Total: 92
 
 ### Binary Search
 
@@ -101,6 +101,8 @@
 [0226. Invert Binary Tree](0226.%20Invert%20Binary%20Tree)
 
 [1650. Lowest Common Ancestor of a Binary Tree III](1650.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree%20III)
+
+[0110. Balanced Binary Tree](0110.%20Balanced%20Binary%20Tree)
 
 [0104. Maximum Depth of Binary Tree](0104.%20Maximum%20Depth%20of%20Binary%20Tree)
 
