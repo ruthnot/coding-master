@@ -4,9 +4,9 @@ from utils.update_readme import UpdateReadme
 from datetime import date
 
 INPUT = {
-    "leet_name": "257. Binary Tree Paths",
-    "lint_name": "480 · Binary Tree Paths",
-    "tags": "Binary Tree"
+    "leet_name": "230. Kth Smallest Element in a BST",
+    "lint_name": "902 · Kth Smallest Element in a BST",
+    "tags": "BST"
 }
 
 

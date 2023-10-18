@@ -1,4 +1,4 @@
-# Total: 93
+# Total: 94
 
 ### Binary Search
 
@@ -187,6 +187,8 @@
 [596 · Minimum Subtree (Lintcode)](596%20·%20Minimum%20Subtree%20(Lintcode))
 
 ### BST
+
+[0230. Kth Smallest Element in a BST](0230.%20Kth%20Smallest%20Element%20in%20a%20BST)
 
 [0098. Validate Binary Search Tree](0098.%20Validate%20Binary%20Search%20Tree)
 
